@@ -6,6 +6,9 @@ The project focuses on:
 - Smart understanding of citizen grievances
 - Direct redirection to official government platforms
 
+# My Website
+Live Website: [https://your-website.netlify.app](https://civiconn.netlify.app/)
+
 # Proposed Solution
 CivicConnect provides a step-by-step grievance submission system that:
 - Guides users clearly from start to finish
